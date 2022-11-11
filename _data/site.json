@@ -15,7 +15,7 @@
   "enableDarkMode": true,
   "description": "A Marilyn Manson Shrine",
   "enableContact": true,
-  "navigationStyle": "vertical",
+  "navigationStyle": "horizontal",
   "enableNetlifyCMS": true,
   "enableEditButton": true
 }
