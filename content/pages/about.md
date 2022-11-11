@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2022-11-11T13:24:56.917Z
-permalink: /about
+permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
