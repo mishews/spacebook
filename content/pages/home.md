@@ -3,7 +3,7 @@ title: Narcissus Narcosis
 date: 2022-11-11T18:11:32.975Z
 permalink: /
 eleventyNavigation:
-  key: Narcissus Narcosis
+  key: NarcissusNarcosis
   order: 0
   title: Narcissus Narcosis
 ---
