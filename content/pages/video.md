@@ -1,7 +1,7 @@
 ---
 title: Video
 date: 2020-11-11
-permalink: none 
+permalink: /video/index.html
 comments: 0
 eleventyNavigation:
   key: Video
