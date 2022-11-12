@@ -7,9 +7,9 @@ eleventyNavigation:
   order: 0
   title: Hello, world.
 ---
-***Once upon a time in the The Web or commonly (although inaccurately) called The Internet was a hope and a symbol of freedom. Freedom to express yourself, freedom to create, freedom to learn and share knowledge, freedom to imagine, freedom to think... to be. Websites used to be owned by actual human beings, and were virtual homes of someone's mind and soul. Web-rings and bulletin boards (i.e., forums) were actual communities where friendships and rivals were formed or/and dissolved. The Algorithm to which we all obey today, simply did not exist...***
+***Once upon a time The Web or commonly (although inaccurately) called The Internet was a hope and symbol of freedom. Freedom to express yourself, freedom to create, freedom to learn and share knowledge, freedom to imagine, freedom to think... to be. Websites used to be owned by actual human beings, and were virtual homes of someone's mind and soul. Web-rings and bulletin boards (i.e., forums) were actual communities where friendships and rivals were formed or/and dissolved. The Algorithm to which we all obey today, simply did not exist...***
 
-***Due to circumstances, or to be exact a quite unusual father, I always*** 
+
 
 
 
