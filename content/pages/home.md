@@ -1,12 +1,10 @@
 ---
-title: Narcissus Narcosis
+title: ad nauseam
 date: 2022-11-11T18:11:32.975Z
 permalink: /
 eleventyNavigation:
-  key: NarcissusNarcosis
+  key: home
   order: 0
-  title: Narcissus Narcosis
+  title: ad nauseam
 ---
-[*Music*] has the ability to lead us, if only temporarily, into a sacred realm. Music plays into the yearning many of us instinctively have - you know, the God-shaped hole. It is the art form that can most effectively fill that hole, because it makes us feel less alone, existentially. It makes us feel spiritually connected. Some music can even lead us to a place where a fundamental spiritual shift of consciousness can happen. At best, it can conjure a sacred space.
-
-![](/static/img/tumblr_ly6coapx041qlnruvo1_1280.jpg)
+> **Manson serves as a reminder concerning the power that fear maintains in America and contemporary society’s vulnerability to false claims.**
