@@ -8,3 +8,11 @@ eleventyNavigation:
   title: Birds Of Hell Awaiting
 ---
 > **Manson serves as a reminder concerning the power that fear maintains in America and contemporary society’s vulnerability to false claims.**
+
+### 2020-2023 Wood/Gore 'Phoenix Act' Conspiracy
+
+** [2006 - 2012 Timeline Of Events](/timeline/index.html)**
+
+### 1999-2000 Columbine School Shooting Scapegoating 
+
+### 1996-1998 American Family Association Defamation
