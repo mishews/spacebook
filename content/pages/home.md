@@ -5,6 +5,6 @@ permalink: /
 eleventyNavigation:
   key: home
   order: 0
-  title: ""
+  title: Chaos
 ---
 ![](https://narcissus-narcosis.neocities.org/img/mm_wac_painting-bg.jpg)
