@@ -5,5 +5,7 @@ permalink: /words/index.html
 comments: 0
 eleventyNavigation:
   key: Words
-  order: 150 
+  order: 150
+  parent: Magick
 ---
+words
