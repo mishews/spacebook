@@ -5,7 +5,7 @@ permalink: /magick/index.html
 comments: 0
 eleventyNavigation:
   key: Magick
-  order: 50
+  order: 2
   title: ""
 ---
 magick
